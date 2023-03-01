@@ -26,7 +26,7 @@ global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = english //change indonesia to english if you don't understand the language used by the bot
+global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
@@ -40,9 +40,9 @@ global.email = "mdsandaru2@gmail.com" //bebas
 global.region = "Buddhist" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
 global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
+global.owner = ["6281617588223", "6281617588223"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281627588223" // nomor wa kalian
+global.ownernomerr = "6281627588223" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
